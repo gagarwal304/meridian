@@ -8,7 +8,7 @@ Collects Claude Code telemetry, detects inefficiency patterns, and generates
 ## Install
 
 ```bash
-git clone <repo> && cd MERIDIAN
+git clone https://github.com/gagarwal304/meridian && cd meridian
 pipx install --editable .
 meridian setup
 source ~/.zshrc

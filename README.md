@@ -21,8 +21,8 @@ source ~/.zshrc
 >
 > **For development** (to edit the source and see changes immediately):
 > ```bash
-> git clone <repo>
-> cd MERIDIAN
+> git clone https://github.com/gagarwal304/meridian
+> cd meridian
 > pipx install --editable .
 > ```
 
